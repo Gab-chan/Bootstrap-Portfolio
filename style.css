@@ -57,10 +57,13 @@ h1 {
 
 .container {
     background-color: #ffffff;
-    
     width: 960px;
     position: relative;
     top: 10%;
+}
+
+.ms-height {
+    height: 70%;
 }
 
 .title {
@@ -130,4 +133,70 @@ p {
     color: #ffffff;
 }
 
+.img1{
+    width: 300px;
+    height: 150px;
+    
+}
 
+.img2{
+    width: 300px;
+    height: 150px;
+}
+
+.img3{
+    width: 300px;
+    height: 150px;
+}
+
+.img4{
+    width: 300px;
+    height: 150px;
+}
+
+
+.salvador {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 300px;
+    height: 20px;
+    position: relative;
+    bottom: 10%;
+    
+}
+
+
+.games {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 300px;
+    height: 20px;
+    position: relative;
+    bottom: 10%;
+    
+}
+
+
+.anime {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 300px;
+    height: 20px;
+    position: relative;
+    bottom: 10%;
+    
+}
+
+.manga {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 300px;
+    height: 20px;
+    position: relative;
+    bottom: 10%;
+    
+}
