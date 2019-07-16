@@ -207,3 +207,146 @@ p {
     bottom: 10%;
     
 }
+
+
+
+
+@media screen and (max-width: 980px){
+
+    body{
+        width: auto;
+        height: auto;
+    }
+
+    .div1 {
+        width: auto;
+        height: auto;
+        background-size: auto;
+        
+    }
+
+    .container {
+        width: auto;
+        height: auto;
+    }
+
+    footer {
+        width: auto;
+        height: auto;
+    }
+
+    nav {
+        width: 108%;
+        height: auto;
+    }
+
+    a {
+        width: auto;
+        height: auto;
+
+    }
+
+    .ms-portfolio {
+        width:auto;
+        height: auto;
+        margin-left: 22%;
+        margin-right: 22%;
+    }
+    
+
+    
+
+
+
+ }
+
+
+ @media screen and (max-width: 768px){
+    body{
+        width: auto;
+        height: auto;
+    }
+
+    .div1 {
+        width: auto;
+        height: auto;
+        background-size: auto;
+        
+    }
+
+    .container {
+        width: auto;
+        height: auto;
+    }
+
+    footer {
+        width: auto;
+        height: auto;
+    }
+
+    nav {
+        width: 800px;
+        height: auto;
+    }
+
+    a {
+        width: auto;
+        height: auto;
+
+    }
+
+    .ms-portfolio {
+        width:auto;
+        height: auto;
+        margin-left: 23%;
+        margin-right: 25%;
+    }
+ }
+
+
+
+ @media screen and (max-width: 640px){
+    body{
+        width: auto;
+        height: auto;
+    }
+
+    .div1 {
+        width: auto;
+        height: auto;
+        background-size: auto;
+        
+    }
+
+    .container {
+        width: auto;
+        height: auto;
+    }
+
+    footer {
+        width: auto;
+        height: auto;
+    }
+
+    nav {
+        width: 108%;
+        height: auto;
+    }
+
+    a {
+        width: auto;
+        height: auto;
+
+    }
+
+    .ms-portfolio {
+        width:auto;
+        height: auto;
+        margin-left: 22%;
+        margin-right: 22%;
+    }
+
+    
+      
+    }
+ 
